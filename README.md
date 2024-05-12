@@ -64,6 +64,7 @@ O Hermes  automatiza  a  geração  de  relatórios  para  socorristas  e  param
 
 - Crie o seguinte diretório e copie o caminho do arquivo desejado.
 ![image](https://github.com/GuilhermeDuar/ProjetoImersao/assets/89658024/78418bd1-7403-43d0-ad95-441e88f2f5f4)
+
 - Atualize o parametro com o caminho.
 ![image](https://github.com/GuilhermeDuar/ProjetoImersao/assets/89658024/c1a9d086-51fa-4c4f-8b74-3622ef7ea11a)
 
@@ -71,6 +72,7 @@ O Hermes  automatiza  a  geração  de  relatórios  para  socorristas  e  param
 ### Executando via IDEs de python:
 
 - Crie uma pasta contendo os áudios no mesmo diretório do projeto.
+
 - Atualize o parametro com o caminho do arquivo desejado.
 ![image](https://github.com/GuilhermeDuar/ProjetoImersao/assets/89658024/c1a9d086-51fa-4c4f-8b74-3622ef7ea11a)
 
