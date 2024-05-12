@@ -56,6 +56,8 @@ O Hermes  automatiza  a  geração  de  relatórios  para  socorristas  e  param
     
 -   Expansão  da  base  de  dados  de  sintomas  e  exames  para  melhorar  a  precisão  das  sugestões.
 
+  
+
 ## Ajustes para rodar o Hermes em sua maquina
 
 ### Executando via Google Colab:
@@ -64,6 +66,7 @@ O Hermes  automatiza  a  geração  de  relatórios  para  socorristas  e  param
 ![image](https://github.com/GuilhermeDuar/ProjetoImersao/assets/89658024/78418bd1-7403-43d0-ad95-441e88f2f5f4)
 - Atualize o parametro com o caminho.
 ![image](https://github.com/GuilhermeDuar/ProjetoImersao/assets/89658024/c1a9d086-51fa-4c4f-8b74-3622ef7ea11a)
+
 
 ### Executando via IDEs de python:
 
